@@ -1,0 +1,9 @@
+a=int(input("ENTER THE NUMBER TO CHECK ODD OR EVEN : "))
+if a%2==0:
+    print("THE GIVEN NUMBER IS EVEN")
+else:
+    print("THE GIVEN NUMBER IS ODD")
+```
+
+    ENTER THE NUMBER TO CHECK ODD OR EVEN : 23
+    THE GIVEN NUMBER IS ODD

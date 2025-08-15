@@ -1,0 +1,8 @@
+a=int(input("ENTER LENGHT"))
+b=int(input("ENTER WIDTH"))
+print("THE AREA OF THE RECTANGLE IS ",a*b)
+```
+
+    ENTER LENGHT2
+    ENTER WIDTH3
+    THE AREA OF THE RECTANGLE IS  6

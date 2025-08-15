@@ -1,0 +1,7 @@
+a=int(input("ENTER THE TEM IN CELSIUS"))
+b=a*(9/5)+32
+print("THE TEM IN FAHRENHEIT IS :",b)
+```
+
+    ENTER THE TEM IN CELSIUS32
+    THE TEM IN FAHRENHEIT IS : 89.6
